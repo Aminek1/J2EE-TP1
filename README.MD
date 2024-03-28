@@ -1,7 +1,7 @@
 -<h3>Compte rendu<h3>
 
 <h4>1- Créer l'interface IDao avec une méthode getDate</h4>
-<img src="CaptureTP1/l'interface IDAO.png" alt="">
+<img src="CaptureTP1/InterfaceIDao.png" alt="">
 
 <h4>2-Implementation de l'interface IDAO</h4>
 <img src="CaptureTP1/ImpleIDao.png" alt="">
